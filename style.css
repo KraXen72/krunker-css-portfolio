@@ -185,7 +185,7 @@ h1 {
   top: .5rem;
 } */
 
-.gallery a:first-child:hover {
+.gallery a:hover {
    transform: scale(1.05);
 }
 
